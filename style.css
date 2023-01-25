@@ -1,0 +1,47 @@
+body{
+    background-image: url('https://cdn.discordapp.com/attachments/610217920508985344/1067637918950248509/IMG_2655.png');
+    text-align:center;
+}
+
+p h3{
+    text-align:center;
+}
+
+#blanco{
+    background-color:white;
+}
+
+#cabeza{
+    font-size:40px;
+    font-weight:bold;
+    !important
+}
+
+#page-container {
+  position: relative;
+  min-height: 200vh;
+}
+
+#content-wrap {
+  padding-bottom: 2.5rem;    /* Footer height */
+  !important
+}
+
+#footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem;  
+  !important
+  /* Footer height */
+}
+
+#imagen{
+    height:200px;
+    !important
+}
+
+#calendario{
+    height:500px;
+    !important
+}
