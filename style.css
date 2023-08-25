@@ -7,6 +7,11 @@ p h3{
     text-align:center;
 }
 
+h1{
+    font-weight: bolder;
+    
+}
+
 #blanco{
     background-color:white;
 }
